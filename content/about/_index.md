@@ -1,6 +1,6 @@
 ---
 title: "about"
-description: "i work with: machines. engineering. intelligence."
+description: "machines. engineering. intelligence."
 featured_image: '/images/sky.jpg'
 ---
 
