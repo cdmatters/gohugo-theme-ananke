@@ -5754,7 +5754,7 @@ code, .code {
 }
 
 .nested-links a {
-  color: #357edd;
+  color: black;
   transition: color .15s ease-in;
 }
 
