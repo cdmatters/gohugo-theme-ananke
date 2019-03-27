@@ -1,7 +1,7 @@
 ---
 title: "about"
-description: "machines. engineering. intelligence."
-featured_image: '/images/sky.jpg'
+description: "i work with (machines. engineering. intelligence.)"
+featured_image: '../images/sky.jpg'
 ---
 
 I am a machine learning engineer and software developer, with research interest in natural language processing, probabilistic modelling, reinforcement learning.

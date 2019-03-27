@@ -22,5 +22,5 @@ featured_image: '/images/sky.jpg'
 
 most of my paid work is not open source. however there are a number of projects i am particularly proud of. you can see them [here](../projects). if you're interested in a project or working with me, drop me an [email](../contact).
 
-**[full resumé](url)** | 
-**[one page](url)**
+**[full resumé](/pdfs/ERICHAMBRO_DEC2018.pdf)** | 
+**[one page](/pdfs/ERICHAMBRO_DEC2018.pdf)**

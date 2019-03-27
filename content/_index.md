@@ -5,4 +5,4 @@ description: "i like to build intelligent machines"
 paragraph: 'base'
 ---
 
-*check out my [projects](./projects), [cv](./vitae) or just say [hi](./contact)*
+*check out my [projects](./projects), [cv](./vitae) or just say [hi](./contact)* | WORK IN PROGRESS 27/4/19

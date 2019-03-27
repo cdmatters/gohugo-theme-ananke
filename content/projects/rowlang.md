@@ -6,6 +6,13 @@ featured_image: "/images/rowlang.jpg"
 tags: ["NLP", "tensorflow", "ML"]
 title: "rowlang"
 ---
-Smithers is a poker bot server in C++. It allows your bots to play poker against each other very fast.  It is written in C++ because when C++ is your hammer, everything is a thumb.
 
-**The Stack**
+## Write Up Coming Soon
+
+### The Stack
+
+* python3.5
+* tensorflow
+* numpy
+
+### [Github](https://github.com/condnsdmatters/rowlang)

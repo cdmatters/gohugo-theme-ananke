@@ -17,7 +17,7 @@ I had just finished my physics degree at Cambridge, and had already spent some t
 
 While at RC, I attended a seminar run by [Mary Rose Cook](https://maryrosecook.com/) in game development, in which she laid out the basics of coding up Space Invaders, based on her very popular [annotated code blog posts](http://annotated-code.maryrosecook.com/). 
 
-I decided to make a version of snake in polar coordinates, and my code follows that seminar and architecture closely. It was my first javascript project.
+In the seminar, I decided to make a version of snake in polar coordinates, and my code follows that architecture closely. It was my first javascript project.
 
 ### Polar Coordinates
 
@@ -40,4 +40,4 @@ For instance, orbital mechanics is very simple and elegant in polar coordinates,
 
 * javascript
 
-### [Github](https://github.com/condnsdmatters/snayk) | [Play](url)
+### [Github](https://github.com/condnsdmatters/snayk) | [Play](https://github.com/condnsdmatters/snayk)
