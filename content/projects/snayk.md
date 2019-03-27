@@ -8,7 +8,7 @@ title: "snayk"
 ---
 
 
-snayk is a game in 400 lines of pure javascript, written during my time at [the Recurse Center](https://recurse.com). It is simply the classic game of snake, adapted to use polar coordinates, instead of Cartesian ones. You can play snayk [here](url).
+snayk is a game in 400 lines of pure javascript, written during my time at [the Recurse Center](https://recurse.com). It is simply the classic game of snake, adapted to use polar coordinates, instead of Cartesian ones. You can play snayk [here](/snayk).
 
 
 ### Background
@@ -40,4 +40,4 @@ For instance, orbital mechanics is very simple and elegant in polar coordinates,
 
 * javascript
 
-### [Github](https://github.com/condnsdmatters/snayk) | [Play](https://github.com/condnsdmatters/snayk)
+### [Github](https://github.com/condnsdmatters/snayk) | [Play](/snayk)

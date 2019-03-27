@@ -1,6 +1,6 @@
 ---
 title: "about"
-description: "i work with (machines. engineering. intelligence.)"
+description: "i like to build intelligent machines"
 featured_image: '../images/sky.jpg'
 ---
 
@@ -11,6 +11,7 @@ I have experience in writing large-scale financial software in C/C++ and Python,
 I hold a BA and MSci in Physics from the University of Cambridge, and a MSc in Machine Learning from UCL, in which I got the top distinction in the year. 
 
 At UCL, I wrote my thesis with Prof. Sebastian Riedel and Matko Bošnjak, on the automatic documentation of programming languages.
+
 
 <!-- 
 **work** 
