@@ -1,10 +1,32 @@
 ---
-date: 2015-04-09T10:58:08-04:00
+date: 2016-04-09T10:58:08-04:00
 description: "a data investigation into politicians' tweets" 
 featured_image: "/images/twirps.png"
-tags: ["C++", "infrastructure", "ZMQ"]
+tags: ["python", "data science", "Flask", "javascript"]
 title: "twirps"
+paragraph: "a project to collect, analyse and visualise the network of politician's tweets."
 ---
-Smithers is a poker bot server in C++. It allows your bots to play poker against each other very fast.  It is written in C++ because when C++ is your hammer, everything is a thumb.
+Twirps is a project to collect, analyse and visualise politician's tweets. A preliminary version was built in the run up to the 2015 UK General Election, and it was later turned into a Flask web app in 2017, using a graph Neo4j database as it's datastore.
+
+### The Project
+
+In the run up to the 2015 UK General Election, political twitter had really started to heat up. We had the we'd had 5 years of coalition government between parties led by two relatively young leaders, and it looked likely the next government would also be a coalition. This was, supposedly, a time before the fragmentation of parties, where people 'reached out' of their echo chamber.
+
+### The Aim
+
+
+### Collecting the Data
+
+### Analysis
+
+
 
 **The Stack**
+
+* python2.7
+* Flask (webapp)
+* Neo4j (backend)
+* d3.js (visualisation)
+* deploy to Heroku
+
+**The Project**
