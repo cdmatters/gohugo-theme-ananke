@@ -6,7 +6,7 @@ featured_image: '/images/sky.jpg'
 
 **work** 
 
-* machine learning engineer @ Prowler.io
+* machine learning engineer (research) @ Prowler.io
 * senior consultant @ Recognitive.ai
 * freelance consultant @ IDEO
 * financial software developer @ Bloomberg LP
@@ -24,4 +24,4 @@ most of my paid work is not open source. however there are a number of projects 
 
 <!-- **[full resumé](/pdfs/ERICHAMBRO_DEC2018.pdf)** | 
 **[one page](/pdfs/ERICHAMBRO_DEC2018.pdf)** -->
-**[resumé](/pdfs/ERICHAMBRO_DEC2018.pdf)**
+**[resumé](/pdfs/ERICHAMBRO_MAR2020.pdf)**

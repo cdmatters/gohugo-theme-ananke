@@ -7,6 +7,7 @@ tags: ["NLP", "tensorflow", "ML"]
 title: "rowlang"
 ---
 
+\[In Progress\]
 ## Write Up Coming Soon
 
 ### The Stack
