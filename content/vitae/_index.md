@@ -6,7 +6,7 @@ featured_image: '/images/sky.jpg'
 
 **work** 
 
-* machine learning engineer (research) @ Prowler.io
+* machine learning engineer/research engineer @ PROWLER.io
 * senior consultant @ Recognitive.ai
 * freelance consultant @ IDEO
 * financial software developer @ Bloomberg LP
