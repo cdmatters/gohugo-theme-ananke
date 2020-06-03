@@ -4,7 +4,7 @@ description: "work. education. projects."
 featured_image: '/images/sky.jpg'
 ---
 
-**work** 
+**work**
 
 * machine learning engineer/research engineer @ PROWLER.io
 * senior consultant @ Recognitive.ai
@@ -22,6 +22,5 @@ featured_image: '/images/sky.jpg'
 
 most of my paid work is not open source. however there are a number of projects i am particularly proud of. you can see them [here](../projects). if you're interested in a project or working with me, drop me an [email](../contact).
 
-<!-- **[full resumé](/pdfs/ERICHAMBRO_DEC2018.pdf)** | 
-**[one page](/pdfs/ERICHAMBRO_DEC2018.pdf)** -->
-**[resumé](/pdfs/ERICHAMBRO_MAR2020.pdf)**
+
+**[resumé](/pdfs/ERICHAMBRO_APR2020.pdf)**
