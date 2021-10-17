@@ -5,9 +5,8 @@ featured_image: '/images/sky.jpg'
 ---
 
 **work**
-
-* machine learning engineer/research engineer @ PROWLER.io
-* senior consultant @ Recognitive.ai
+* research engineer @ Facebook AI Research
+* research engineer @ PROWLER.io
 * freelance consultant @ IDEO
 * financial software developer @ Bloomberg LP
 
@@ -24,3 +23,7 @@ most of my paid work is not open source. however there are a number of projects 
 
 
 **[resumé](/pdfs/ERICHAMBRO_APR2020.pdf)**
+
+**(updated Apr 20)**
+
+
