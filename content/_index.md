@@ -1,7 +1,7 @@
 ---
 title: "eric hambro"
 featured_image: '/images/sky.jpg'
-description: ""
+description: " "
 paragraph: 'base'
 ---
 

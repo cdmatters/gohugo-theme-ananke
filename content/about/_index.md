@@ -4,11 +4,11 @@ description: "i work with intelligent machines"
 featured_image: '../images/sky.jpg'
 ---
 
-I am a machine learning engineer and software developer, with research focus in probabilistic modelling, reinforcement learning and natural language processing.
+I am a machine learning engineer and software developer, with a research focus in probabilistic modelling, reinforcement learning and natural language processing.
 
 I have experience in writing large-scale financial software in C/C++ and Python, consulting on machine learning projects, and conducting machine learning research in industry and academia. 
 
-I hold a BA and MSci in Physics from the University of Cambridge, and an MSc in Machine Learning from UCL, where I wrote my thesis with Prof. Sebastian Riedel and Dr. Matko Bošnjak and tooks course at the Gatsby Institute.
+I hold a BA and MSci in Physics from the University of Cambridge, and an MSc in Machine Learning from UCL, where I wrote my thesis with Prof. Sebastian Riedel and Dr. Matko Bošnjak and took courses at the Gatsby Institute.
 
 I currently work at [Facebook AI Research](https://ai.facebook.com/) as a research engineer, in their "blue-sky" laboratory. 
 
