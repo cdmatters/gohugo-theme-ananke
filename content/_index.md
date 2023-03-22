@@ -9,6 +9,6 @@ I am a senior research engineer at [Meta AI](https://ai.facebook.com/), where my
 
 Currently my work focuses on agentic behaviour in large language models. 
 
-For more on my work, see my GitHub, CV or Scholar page.
+For more on my work, see my [GitHub](https://github.com/condnsdmatters/), [Scholar](https://scholar.google.com/citations?user=ehquBPIAAAAJ&hl=en&oi=ao) page, or see [here](./vitae/)
 
 ![me](/images/eric.JPG)

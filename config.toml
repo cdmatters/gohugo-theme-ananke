@@ -42,6 +42,9 @@ enableRobotsTXT = true
   featured_image = "/images/sky.jpg"
   recent_posts_number = 1
 
+
 [[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+name = "scholar"
+url = "https://scholar.google.com/citations?user=ehquBPIAAAAJ&hl=en&oi=ao"
+color = "#ff6800"
+label = "Google Scholar"

@@ -19,7 +19,7 @@ featured_image: '/images/sky.jpg'
 
 **projects**
 
-most of my paid work is not open source. however there are a number of projects i am particularly proud of. you can see them [here](../projects). if you're interested in a project or working with me, drop me an [email](../contact).
+most of my paid work is not open source. however there are a number of projects i am particularly proud of. you can see them. if you're interested in a project or working with me, drop me an [email](../contact).
 
 
 **[resumé](/pdfs/ERICHAMBRO_APR2020.pdf)**
