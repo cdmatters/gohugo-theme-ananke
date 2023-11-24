@@ -17,4 +17,9 @@
 
 .nested-links a{
   overflow-wrap: break-word;
+  color:hotpink;
+}
+
+.hotpink-links a{
+  color: hotpink;
 }

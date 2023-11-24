@@ -16,4 +16,4 @@ title: "rowlang"
 * tensorflow
 * numpy
 
-### [Github](https://github.com/condnsdmatters/rowlang)
+### [Github](https://github.com/cdmatters/rowlang)

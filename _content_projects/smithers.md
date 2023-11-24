@@ -21,4 +21,4 @@ You can watch a very naive game between bots (prerecorded and slowed down to hum
 * websockets
 * Docker
 
-### [Github](https://github.com/condnsdmatters/smithers)
+### [Github](https://github.com/cdmatters/smithers)

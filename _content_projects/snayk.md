@@ -40,4 +40,4 @@ For instance, orbital mechanics is very simple and elegant in polar coordinates,
 
 * javascript
 
-### [Github](https://github.com/condnsdmatters/snayk) | [Play](/snayk)
+### [Github](https://github.com/cdmatters/snayk) | [Play](/snayk)

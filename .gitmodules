@@ -1,4 +1,4 @@
 [submodule "public_build"]
 	path = public
-	url = git@github.com:condnsdmatters/condnsdmatters.github.io.git
+	url = git@github.com:cdmatters/cdmatters.github.io.git
 	branch = master

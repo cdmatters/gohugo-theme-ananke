@@ -31,4 +31,4 @@ In the run up to the 2015 UK General Election, political twitter had really star
 * tweepy (interact with twitter)
 * Heroku (deployment)
 
-### [Github](https://github.com/condnsdmatters/twirps)
+### [Github](https://github.com/cdmatters/twirps)

@@ -7,7 +7,7 @@ paragraph: "learning to generate Python argument docstrings using the function s
 title: "automatic documentation of python functions"
 ---
 
-For my Master's thesis at UCL, I investigated how the latest NLP techniques could be applied to written source code, to generate English description of source code arguments. The submitted thesis can be downloaded [here](https://github.com/condnsdmatters/ucl-thesis/blob/master/Thesis.pdf) and source code is available below. It got the second highest mark in the year.
+For my Master's thesis at UCL, I investigated how the latest NLP techniques could be applied to written source code, to generate English description of source code arguments. The submitted thesis can be downloaded [here](https://github.com/cdmatters/ucl-thesis/blob/master/Thesis.pdf) and source code is available below. It got the second highest mark in the year.
 
 ## Write Up Coming Soon
 
@@ -19,4 +19,4 @@ For my Master's thesis at UCL, I investigated how the latest NLP techniques coul
 * matplotlib
 * LaTeX
 
-### [Github](https://github.com/condnsdmatters/automatic_documentation)
+### [Github](https://github.com/cdmatters/automatic_documentation)

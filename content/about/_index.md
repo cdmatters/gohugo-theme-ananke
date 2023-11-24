@@ -6,7 +6,7 @@ featured_image: '../images/sky.jpg'
 
 I am a senior research engineer at [Meta AI](https://ai.facebook.com/), where my research intersects probabilistic modelling, reinforcement learning and natural language processing.
 
-I’ve had a pretty broad experience in ML, ranging from language modelling code[¹](https://github.com/condnsdmatters/ucl-thesis/blob/master/Thesis.pdf) before it was cool, to working on deep Gaussian Processes[²](https://arxiv.org/abs/2104.05674v1), to deep Reinforcement Learning for procedurally-generated environments[³](https://github.com/facebookresearch/nle/), and (most recently) back to large language models[⁴](https://arxiv.org/abs/2302.13971).
+I’ve had a pretty broad experience in ML, ranging from language modelling code[¹](https://github.com/cdmatters/ucl-thesis/blob/master/Thesis.pdf) before it was cool, to working on deep Gaussian Processes[²](https://arxiv.org/abs/2104.05674v1), to deep Reinforcement Learning for procedurally-generated environments[³](https://github.com/facebookresearch/nle/), and (most recently) back to large language models[⁴](https://arxiv.org/abs/2302.13971).
 
 
 This ride has taken me some fun places on the software engineering side, including writing performant data loaders for internet-scale datasets[⁵](https://arxiv.org/abs/2211.00539), fiddling with very ancient C codebases[⁶](https://github.com/facebookresearch/nle/), writing distributed fail-over systems for large language model training, and writing parallelisation code for custom operations in Tensorflow.

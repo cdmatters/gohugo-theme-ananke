@@ -19,4 +19,4 @@ You can watch a very naive game between bots (prerecorded and slowed down to hum
 * pyzmq
 * numpy
 
-### [Github](https://github.com/condnsdmatters/smithers--monty)
+### [Github](https://github.com/cdmatters/smithers--monty)
