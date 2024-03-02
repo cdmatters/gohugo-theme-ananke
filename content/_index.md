@@ -4,10 +4,11 @@ featured_image: '/images/sky.jpg'
 description: ""
 ---
 
-I am a senior research engineer at [Meta AI](https://ai.facebook.com/), where my research intersects probabilistic modelling, reinforcement learning and natural language processing.
+I am an AI researcher & engineer based in London. 
 
+My prior work has focused on variously on LLMs, reinforcement learning, and challenging long-horizon tasks.
 
-Currently my work focuses on agentic behaviour in large language models. 
+I am currently employed at [Anthropic](https://anthropic.com/).
 
 For more on my work, see my [GitHub](https://github.com/cdmatters/), [Scholar](https://scholar.google.com/citations?user=ehquBPIAAAAJ&hl=en&oi=ao) page, or see [here](./vitae/)
 

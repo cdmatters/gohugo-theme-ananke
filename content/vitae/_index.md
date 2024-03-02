@@ -5,7 +5,8 @@ featured_image: '/images/sky.jpg'
 ---
 
 **work**
-* research engineer @ Facebook AI Research
+* member of technical staff @ Anthropic
+* senior research engineer @ Facebook AI Research
 * research engineer @ PROWLER.io
 * freelance consultant @ IDEO
 * financial software developer @ Bloomberg LP
@@ -19,11 +20,13 @@ featured_image: '/images/sky.jpg'
 
 **projects**
 
-most of my paid work is not open source. however there are a number of projects i am particularly proud of. you can see them. if you're interested in a project or working with me, drop me an [email](../contact).
+most of my paid work is not open source. however there are a number of projects i am particularly proud of that you might be able to find online. 
+
+i also occasionally advise and invest in startups. if you're interested in a project, working with me, or are looking for advice, drop me an [email](../contact).
 
 
-**[resumé](/pdfs/ERICHAMBRO_APR2020.pdf)**
+<!-- **[resumé](/pdfs/ERICHAMBRO_APR2020.pdf) (outdated)**
 
-**(updated Apr 20)**
+**(cv updated Apr 20)** -->
 
 
