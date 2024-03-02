@@ -6,7 +6,7 @@ description: ""
 
 I am an AI researcher & engineer based in London. 
 
-My prior work has focused on variously on LLMs, reinforcement learning, and challenging long-horizon tasks.
+My prior work has focused variously on LLMs, reinforcement learning, and challenging long-horizon tasks.
 
 I am currently employed at [Anthropic](https://anthropic.com/).
 
