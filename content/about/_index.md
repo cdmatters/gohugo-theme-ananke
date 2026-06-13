@@ -4,7 +4,7 @@ description: "i work with intelligent machines"
 featured_image: '../images/sky.jpg'
 ---
 
-I am a member of technical staff at [Anthropic](https://www.anthropic.com/).
+I'm a member of technical staff at a frontier lab.
 
 Before that I was a researcher & engineer at [Meta AI](https://ai.facebook.com/), where I worked on large language models, agentic behaviour and long horizon tasks. 
 

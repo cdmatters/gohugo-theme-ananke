@@ -4,7 +4,5 @@ description: "email me"
 featured_image: '/images/sky.jpg'
 ---
 
-dust off the python intepreter
-
-`".".join(["com","hambro@gmail", "eric"][::-1])`
+sorry i don't give out my email anymore, though i am happy to be emailed by people who've found out how to get it and want to go for coffee. :)
 

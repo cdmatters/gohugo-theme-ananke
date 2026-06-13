@@ -5,7 +5,7 @@ featured_image: '/images/sky.jpg'
 ---
 
 **work**
-* member of technical staff @ Anthropic
+* member of technical staff 
 * senior research engineer @ Facebook AI Research
 * research engineer @ PROWLER.io
 * freelance consultant @ IDEO
