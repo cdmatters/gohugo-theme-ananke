@@ -3,8 +3,11 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+# Ensure public submodule is on master before build overwrites files
+cd public && git checkout master && cd ..
+
 # Build the project.
-hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo
 
 # Go To Public folder
 cd public
