@@ -4,7 +4,7 @@ description: "i work with intelligent machines"
 featured_image: '../images/sky.jpg'
 ---
 
-I've spent the last few years as a member of technical staff at frontier lab inc, working across different parts of LLM stack (loosely with a pretraining focused).
+I've spent the last few years as a member of technical staff at frontier lab inc, working across different parts of LLM stack (loosely with a pretraining focus).
 
 Before that I was a researcher & engineer at [Meta AI](https://ai.facebook.com/), where I worked on large language models, agentic behaviour and long horizon tasks. 
 
